@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--JB Pet Boutique resale products, latest offerings-->
+    Filename: resale.xml
+    Author: Isaiah Staten
+    Date: 5/26/2024
+-->
+<title>resale_products</title>
+<subtitle>Latest Offerings</subtitle>
+ <product>
+  <description>
+  <condition>
+  <price>
+   <originalPrice>
+   <salePrice>
+  <condition>
+  <message>
+   <![CDATA[ :) ]
+   &#9786;. 
+ <product xmlns="http://example.com/sjbpetboutique/resale">
